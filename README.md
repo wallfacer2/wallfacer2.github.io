@@ -14,5 +14,5 @@ hexo d				更新仓库及页面
 
 ## 2、搭建个人博客过程
 
-[hexo + github搭建个人博客]: https://www.bilibili.com/video/BV1mU4y1j72n?p=1
+[]: https://www.bilibili.com/video/BV1mU4y1j72n?p=1	"hexo + github搭建个人博客"
 
